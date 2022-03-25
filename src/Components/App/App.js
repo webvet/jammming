@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App';
-import './Playlist/Playlist';
+import './SearchBar/SearchBar';
 import './SearchResults/SearchResults';
+import './Playlist/Playlist';
 
 class App extends React.Component {
   render(
